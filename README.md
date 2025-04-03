@@ -1,10 +1,10 @@
-```markdown
 # CloudNine Discord Presence
 
 A sleek, minimalistic tool to keep your Discord tokens online with custom rich presence statuses. Built with love by Cloudnine, and designed to flex your Discord game—whether it’s gaming, Spotify vibes, or coding in VS Code.
 
 ---
 
+```markdown
 ## Features
 
 - **Custom Presence**: Randomly cycles through playing games, Spotify tracks, or Visual Studio Code statuses.
