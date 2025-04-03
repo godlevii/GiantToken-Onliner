@@ -23,7 +23,7 @@ A sleek, minimalistic tool to keep your Discord tokens online with custom rich p
   - `websocket-client` (for Discord gateway magic)
 
 Install them with:
-```bash
+
 pip install rich websocket-client
 ```
 
@@ -38,7 +38,7 @@ pip install rich websocket-client
 
 3. **Run It**  
    Fire it up with:
-   ```bash
+   
    python main.py
    ```
 
